@@ -1,0 +1,2 @@
+# qmake-tricks
+qmake trics
